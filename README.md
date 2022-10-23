@@ -13,19 +13,25 @@ In this project, we developed code using algorithms and data structures to solve
 
 ## Personal Assessment
 - **What was the problem you were solving in the projects for this course?**
-  The goal for the projects was to choose the best data structure for the advising program that reads courses files and helps advisors print course information and prerequisits. The program includes the ability to search for a specific course.
+ 
+ The goal for the projects was to choose the best data structure for the advising program that reads courses files and helps advisors print course information and prerequisits. The program includes the ability to search for a specific course.
 
 - **How did you approach the problem? Consider why data structures are important to understand.**
-  I made an effort to strike a balance between a number of aspects, including which would be most helpful if this project were to grow and evolve in the future. Designing a non-scalable solution is pointless. I also made an effort to think about how effectively memory was used and how quickly data could be added and/or retrieved. The ease of implementation must, at the very least, be taken into account. The client may not always see the value of a project taking longer but only improving in quality by only few percent.
+ 
+ I made an effort to strike a balance between a number of aspects, including which would be most helpful if this project were to grow and evolve in the future. Designing a non-scalable solution is pointless. I also made an effort to think about how effectively memory was used and how quickly data could be added and/or retrieved. The ease of implementation must, at the very least, be taken into account. The client may not always see the value of a project taking longer but only improving in quality by only few percent.
  
 - **How did you overcome any roadblocks you encountered while going through the activities or project?**
- I used ZyBooks and Stackoverflow to research to get past most of my obstacles. Reading files was my project's biggest challenge, and it took me some time to find  assistance with it. I initially tried to utilize the CSV parser that was primarily used in the course, but I was having too many problems with it, so I decided to take a new approach.
+
+
+I used ZyBooks and Stackoverflow to research to get past most of my obstacles. Reading files was my project's biggest challenge, and it took me some time to find  assistance with it. I initially tried to utilize the CSV parser that was primarily used in the course, but I was having too many problems with it, so I decided to take a new approach.
 
 - **How has your work on this project expanded your approach to designing software and developing programs?**
-  I learned a lot about data structures and algorithms from the projects, and as a result, I now have a clearer understanding of what might go into the preliminary planning or designing stage of a solution. It also gave me a lot of knowledge about debugging and the techniques I use for that. Additionally, it emphasized how important pseudocode is!
+
+I learned a lot about data structures and algorithms from the projects, and as a result, I now have a clearer understanding of what might go into the preliminary planning or designing stage of a solution. It also gave me a lot of knowledge about debugging and the techniques I use for that. Additionally, it emphasized how important pseudocode is!
 
 - **How has your work on this project evolved the way you write programs that are maintainable, readable, and adaptable?**
- I believe that this project's nature, which allowed me a variety of possibilities for how to approach the issue, encouraged me to write more understandable and flexible code. This code required explicit commenting and the capacity to be altered easily in order for it to be tested or modified by someone else.
+
+I believe that this project's nature, which allowed me a variety of possibilities for how to approach the issue, encouraged me to write more understandable and flexible code. This code required explicit commenting and the capacity to be altered easily in order for it to be tested or modified by someone else.
 
 
 ## Credits
